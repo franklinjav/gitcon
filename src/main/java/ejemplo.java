@@ -3,7 +3,7 @@ public class ejemplo {
         System.out.println("Esto es un ejemplo gitconsola");
         System.out.println("primer cambio");
         System.out.println("Cambio realizado desde otro ordenador");
-        System.out.println("Ejemplo en rama");
+        System.out.println("Ejemplo en ramaaaaaaa");
     }
 
 }
